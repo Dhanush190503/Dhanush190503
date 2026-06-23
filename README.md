@@ -134,7 +134,7 @@ public class DhanushRaj {
 ## 💼 Work Experience
 
 <details>
-  <summary><b>🏢 CodeAlpha — Java Programming Intern &nbsp;|&nbsp; 2024 &nbsp;|&nbsp; Remote</b></summary>
+  <summary><b>🏢 CodeAlpha — Java Programming Intern &nbsp;|&nbsp; 2025 &nbsp;|&nbsp; Remote</b></summary>
   <br/>
 
   > ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
